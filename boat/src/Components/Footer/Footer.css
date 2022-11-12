@@ -1,0 +1,29 @@
+#slidetext{
+    margin-top: 40px;
+    
+    font-size: 32px;
+    font-weight: bolder;
+    height: 50px;
+  
+
+}
+#footer-div1{
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+   text-align: center;
+    color: rgba(255, 255, 255, 0.541);
+    background-color:rgb(47, 48, 49) ;
+
+}
+#footer-div1 >p{
+    padding-top: 2%;
+    margin-left: 5%;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+  padding-bottom: 20px;
+    margin-right: 5%;
+  }
+  .footer-logo{
+    transform: scale(0.7);
+  }
